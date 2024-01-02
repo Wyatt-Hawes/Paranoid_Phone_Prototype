@@ -2,6 +2,10 @@
 
 - In collaboration with Anna, Alyse, Lumina, Thurmann, and myself
 
+[![Explanation Video](./src/demo.PNG)](https://drive.google.com/file/d/1X2_VqNlkFAElhSBwjvFNAxwlaZSAMLT-/view)
+
+(Video links to google drive video)
+
 ## Prototyping Question
 
 The heart of our question is how to best make people uncomfortable or paranoid by using phones. Can the act of using a phone be dreadful? We plan to test what aspects of using a phone can make us paranoid if the call itself is the most important for causing paranoia, something on the phone itself (like a text message), or the way the user feels physically when they interact with it. We will test this with a few different prototypes, one that has creepy texts, one that involves dialing a rotary phone, and one that involves trying to make you afraid to check your phone.
